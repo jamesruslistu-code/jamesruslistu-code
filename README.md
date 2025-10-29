@@ -5,5 +5,3 @@
 <ol>
   <li>Pizza</li>
   <li>Steak</li>
-<!--hyperlink-->
-  <a href="></a>
